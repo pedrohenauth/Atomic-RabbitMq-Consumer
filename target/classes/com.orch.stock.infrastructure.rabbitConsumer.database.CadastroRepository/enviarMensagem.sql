@@ -1,0 +1,1 @@
+INSERT INTO users (nome, cpf, anoNascimento, profissao, telefone, endereco) VALUES (:nome, :cpf, :anoNascimento, :profissao, :telefone, :endereco);

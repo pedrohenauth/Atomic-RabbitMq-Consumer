@@ -1,2 +1,2 @@
-# Atomic-RabbitMq-Consumer
-Atomico responsável por realizar o consumo da mensagem no rabbitMq e guardar em uma base de dados H2
+# Orquestrador-RabbitMq-Producer
+Componente responsável por receber as informações do usuário e enviar para fila do rabbitMq

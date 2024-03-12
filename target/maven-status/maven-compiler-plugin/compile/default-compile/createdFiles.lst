@@ -1,0 +1,8 @@
+com\orch\stock\config\CadastroNewConfiguration$1.class
+com\orch\stock\config\CadastroNewConfiguration.class
+com\orch\stock\service\CadastroService.class
+com\orch\stock\infrastructure\rabbitConsumer\database\CadastroRepository.class
+com\orch\stock\config\OpenApiNewConfiguration.class
+com\orch\stock\infrastructure\rabbitConsumer\Consumer.class
+com\orch\stock\CadastroApplication.class
+com\orch\stock\domain\Cadastro.class
